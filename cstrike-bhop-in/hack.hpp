@@ -34,8 +34,8 @@ namespace cstrike
 
     namespace modules
     {
-        extern mem::moduleinfo_t hw;
-        extern mem::moduleinfo_t client;
+        extern mem::module_t hw;
+        extern mem::module_t client;
     }
 
     namespace game
